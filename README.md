@@ -10,3 +10,4 @@ This Repository Contains all Books related to Python and Machine Learning
 4. Python & Data Science Handbook
 5. Hands on Machine Learning with Scikit-learn & Tensorflow
 6. Mathematics for Machine Learning
+7. Think Python
