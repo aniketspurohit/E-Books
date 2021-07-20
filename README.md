@@ -1,6 +1,6 @@
 # Introduction
 
-This Repository Contains all Books related to Python and Machine Learning
+This Repository Contains all Books related to Python, Maths, Data Science, Machine Learning and Programming.
 
 # Books
 
