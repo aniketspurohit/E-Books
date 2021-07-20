@@ -13,5 +13,6 @@ This Repository Contains all Books related to Python and Machine Learning
 7. Think Python
 8. Machine Learning book by Stanford University
 9. Inroduction to ML by Cambridge Univerity
+10. The Dev Book by Pratham Prasoon
 
 ## Feel Free to Contribute.
